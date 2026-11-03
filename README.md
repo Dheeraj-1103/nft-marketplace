@@ -74,7 +74,7 @@ A full-stack decentralized NFT Marketplace built with **Solidity**, **Hardhat**,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/nft-marketplace.git
+git clone https://github.com/Dheeraj-1103/nft-marketplace.git
 cd nft-marketplace
 ```
 
