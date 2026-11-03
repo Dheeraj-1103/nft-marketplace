@@ -179,12 +179,6 @@ npx hardhat run scripts/deploy.js --network matic
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your marketplace here_
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
